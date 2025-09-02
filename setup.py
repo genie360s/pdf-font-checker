@@ -19,7 +19,7 @@ def read_long_description():
 
 setup(
     name="pdf-font-checker",
-    version="0.1.0",
+    version="0.1.1",
     description="Tiny helper that lists fonts used in a PDF via MuPDF (mutool).",
     long_description=read_long_description(),
     long_description_content_type="text/markdown",
